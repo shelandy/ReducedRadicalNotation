@@ -1,7 +1,5 @@
 Chinese Reduced Radical Tablature Notation Web System
-
 減字譜網頁打譜系統
-
 ======================
 簡介
 
